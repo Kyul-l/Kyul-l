@@ -9,7 +9,7 @@
 <div align="center">
 
 ```text
-~ Focus · 001 ~
+~ codex entry · 001 ~
 ─────────────────────────────────────────────────────────────
    Cloud Security      ·   Vulnerability Research
    SecOps Automation   ·   Privacy Engineering
@@ -23,26 +23,28 @@
   <img src="https://img.shields.io/badge/GCP-232633?style=for-the-badge&logo=googlecloud&logoColor=EAE0C8"/>
 </p>
 
+```text
+~ selected work ~
+─────────────────────────────────────────────────────────────
+   · code-judge-escape · Hard
+     Container escape to ECS — CTF scenario
+     ↳ Beaver-Dam-Community / GnawLab
+
+   · oidc-misconfig-finder
+     Detects OIDC trust boundary misconfigs in CI/CD
+     ↳ Beaver-Dam-Community
+─────────────────────────────────────────────────────────────
+```
+
 </div>
 
 <br/>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kyul-l&bg_color=121318&color=EAE0C8&line=906CBE&point=E7D5F9&area=true&area_color=37437B&hide_border=true&custom_title=//%20activity%20log" alt="activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Kyul-l" width="60%" alt="gitanimals farm"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>❖ &nbsp; currently mapping the attack surface of modern cloud infrastructure</sub>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kyul-l&bg_color=121318&color=EAE0C8&line=906CBE&point=E7D5F9&area=true&area_color=37437B&hide_border=true&custom_title=~%20field%20log%20~" alt="activity graph" />
 </p>
 
 <p align="center">
   <sub>☽ &nbsp;·&nbsp; ◐ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ☆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ◑ &nbsp;·&nbsp; ☾</sub>
+</p>
 </p>
