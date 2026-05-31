@@ -47,4 +47,3 @@
 <p align="center">
   <sub>☽ &nbsp;·&nbsp; ◐ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ☆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ◑ &nbsp;·&nbsp; ☾</sub>
 </p>
-</p>
