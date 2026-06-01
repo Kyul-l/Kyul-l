@@ -6,7 +6,7 @@
 
 ```text
 ~ latest ~
-─────────────────────────────────────────────────────────────
+
    ❖ code-judge-escape · Hard
      Container escape to ECS — CTF scenario
      ↳ Beaver-Dam-Community / GnawLab
@@ -14,7 +14,7 @@
    ❖ oidc-misconfig-finder
      Detects OIDC trust boundary misconfigs in CI/CD
      ↳ Beaver-Dam-Community
-─────────────────────────────────────────────────────────────
+
 ```
 
 </div>
