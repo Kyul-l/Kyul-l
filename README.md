@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=2000&color=EAE0C8&background=121318&center=true&vCenter=true&width=900&height=140&lines=Cataloguing+constellations+in+the+noise.;If+you+choose%2C+walk+fully.+Do+not+pretend.;Cloud+observatory+%C2%B7+offensive+research." alt="banner" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121318,45:37437B,100:906CBE&height=140&section=header&text=If+you+choose%2C+walk+fully.+Do+not+pretend.&fontSize=22&fontColor=EAE0C8&fontAlignY=50&animation=fadeIn"/>
 
 <p align="center"><sub>✦ &nbsp;·&nbsp; ────────── &nbsp;·&nbsp; ✦</sub></p>
 
