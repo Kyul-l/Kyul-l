@@ -1,0 +1,30 @@
+<svg width="500" height="260" viewBox="0 0 500 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .title { font-size: 20px; font-weight: 500; }
+    .item  { font-size: 15px; }
+    .dot   { font-size: 13px; font-weight: 600; letter-spacing: 3px; }
+    @media (prefers-color-scheme: dark) {
+      .title, .item { fill: #e6e4e1; }
+      .dot  { fill: rgba(230,228,225,0.82); }
+      .rule { stroke: rgba(230,228,225,0.18); }
+    }
+    @media (prefers-color-scheme: light) {
+      .title, .item { fill: #37352f; }
+      .dot  { fill: rgba(55,53,47,0.5); }
+      .rule { stroke: rgba(55,53,47,0.18); }
+    }
+  </style>
+
+  <text class="title" x="250" y="58" text-anchor="middle">⊹ 𝑹𝒆𝒄𝒆𝒏𝒕 𝑨𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒔 ⊹</text>
+
+  <line class="rule" x1="20" y1="80" x2="480" y2="80" stroke-width="0.8"/>
+
+  <text class="item" x="20" y="120">✧ </text>
+
+  <text class="dot" x="250" y="156" text-anchor="middle">·  ⋆  ·  ⋆  ·</text>
+
+  <text class="item" x="20" y="192">✧ </text>
+
+  <line class="rule" x1="20" y1="218" x2="480" y2="218" stroke-width="0.8"/>
+</svg>
